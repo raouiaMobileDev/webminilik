@@ -1,0 +1,7 @@
+{
+    "name": "AddPub",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./AddPub.js"
+  }
+  

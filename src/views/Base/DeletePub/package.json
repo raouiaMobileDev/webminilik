@@ -1,0 +1,7 @@
+{
+    "name": "DeletePub",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./DeletePub.js"
+  }
+  
